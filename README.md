@@ -3,3 +3,5 @@ This project is based on Entagmas's tutorial: https://entagma.com/houdini-curl-n
 The tutorial teachs how to create a vector field and create volume trails using said field.
 After playing with the setup I found the "vdb advect points" node to be faster and move accurate
 everything is rendered in redshift with a basic shader
+<img src="Images/Node Tree.png"  >
+<img src="Images/Curl_noise_flow.png" width = 1024 >
